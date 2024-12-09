@@ -4,3 +4,5 @@ certifi
 urllib3
 matplotlib
 cvxpy
+numpy==1.26.4 #lated version have compatibility issues with pmdarima as of dec 9th 2024
+pmdarima
