@@ -3,3 +3,4 @@ scikit-learn
 certifi
 urllib3
 matplotlib
+cvxpy
